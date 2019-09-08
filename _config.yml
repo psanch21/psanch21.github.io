@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Pablo Sanchez Martin"
   avatar           : "profile.png"
-  bio              : "Machine Learning "
+  bio              : "Ph.D student, Max Planck Institute for Intelligence Systems"
   location         : "Tubinga, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "psanch2103@gmail.com"
-  researchgate     :  "https://researchgate.net/profile/Pablo_Sanchez_Martin"xxw
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "psanch21"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/pablo-sanchez-martin"
+  linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
